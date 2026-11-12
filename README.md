@@ -212,4 +212,4 @@ Super is available as a full free version with all features and updates included
 Ready to transform your multimedia experience? Download **Super** now and unlock the full potential of your files!
 
 ---
-**Last updated:** 2026-11-12 17:23:48 UTC
+**Last updated:** 2026-11-12 22:59:10 UTC
